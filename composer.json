@@ -1,0 +1,23 @@
+{
+    "name": "exadra37-docker-images/php7-dev-cli",
+    "description": "Docker images for Php7 Dev CLI.",
+    "keywords": [
+        "Exadra37",
+        "php-fpm",
+        "php",
+        "php7",
+        "php7 dev cli",
+        "docker",
+        "docker image"
+    ],
+    "homepage": "https://gitlab.com/exadra37-docker-images/php7/dev-cli",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Exadra37",
+            "email": "exadra37@gmail.com",
+            "homepage": "https://exadra37.com",
+            "role": "Software Developer"
+        }
+    ]
+}
