@@ -24,4 +24,4 @@ RUN apt-get update && \
     usermod -s /usr/bin/zsh "${CONTAINER_USER}" && \
     su "${CONTAINER_USER}" -c 'bash -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"'
 
-USER "4{CONTAINER_USER}"
+USER "${CONTAINER_USER}"
