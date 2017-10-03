@@ -1,4 +1,4 @@
-FROM exadra37/php7-fpm:7.0
+FROM exadra37/php7-fpm:7.1
 
 ARG CONTAINER_USER='php-fpm'
 
