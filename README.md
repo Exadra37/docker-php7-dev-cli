@@ -1,6 +1,6 @@
-# PHP7 FPM DOCKER IMAGE
+# PHP7 FPM DEV CLI DOCKER IMAGE
 
-Build Docker Images with all versions for PHP7 FPM.
+Build Docker Images with all versions of PHP7 FPM for development, including all the necessary developer tools.
 
 
 ## MENU
