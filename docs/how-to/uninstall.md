@@ -1,7 +1,13 @@
 # HOW TO UNINSTALL
 
-Detailed instructions here...
 
+## Remove Docker Image
+
+Ensure that no containers referencing the docker image exists on your system.
+
+```shell
+sudo docker image rm exadra37/php7-dev-cli:7.2
+```
 
 ---
 
